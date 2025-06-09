@@ -127,4 +127,4 @@ df.isnull().sum()
 ## 📌 Autor
 
 **André Rodrigues**  
-[LinkedIn](https://www.linkedin.com/in/andrerodriguesdados) | [GitHub](https://github.com/seuusuario)
+[LinkedIn]([https://www.linkedin.com/in/andrerodriguesdados](https://www.linkedin.com/in/andrehrsilva/)) | [GitHub]([https://github.com/seuusuario](https://github.com/andrehsilva))
